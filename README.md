@@ -4,7 +4,6 @@
 **michaelgobz/michaelgobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my logistics Startup, logit transporters 
 - 🌱 I’m currently learning web3 and bitcoin blockchain 
