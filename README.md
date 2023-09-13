@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on my logistics Startup, logit transporters 
+- 🔭 I’m currently working on my logistics Startup, logit transporters and also testing ivy the unified ai framework on regression and classification model performance. 
 - 🌱 I’m currently learning web3 and bitcoin blockchain 
 - 👯 I’m looking to collaborate on chromium browser and saleor ecommerce
 - 💬 Ask me about Technology and the Economic Impact of its 
